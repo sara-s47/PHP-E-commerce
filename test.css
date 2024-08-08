@@ -1,0 +1,8 @@
+body {
+    background: #eecda3;
+    background: -webkit-linear-gradient(to right, #eecda3, #ef629f);
+    background-image: linear-gradient(to right bottom , #ff9100, #f58b00, #f78c00, #ff7300, #ff9a03);
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
